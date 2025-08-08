@@ -66,11 +66,11 @@ telnet localhost 23
 ## Configuration Files
 
 ### Firewall Rules Backup
-[`📁 ufw_backup.rules`](configuration/ufw_backup.rules)  
+[`📁 ufw_backup.rules`](config_files/ufw_backup.rules)  
 Exported firewall configuration containing all active rules. Generated with `sudo ufw export`.
 
 ### Default Settings 
-[`📁 ufw_default`](configuration/ufw_default)  
+[`📁 ufw_default`](config_files/ufw_default)  
 System-wide UFW configuration file controlling default policies and IPv6 settings.
 
 ## Expected Outcomes
